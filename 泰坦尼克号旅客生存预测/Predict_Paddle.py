@@ -78,7 +78,7 @@ class Regressor(paddle.nn.Layer):
 
 # 声明定义好的线性回归模型
 model = Regressor()
-# 定义评估过程
+# 定义训练过程
 def train(model):
     paddle.set_device('gpu:0')
     print('start training .......')
@@ -135,7 +135,7 @@ def train(model):
 
     return epochs, train_losses_set
 
-# 定义训练过程
+# 定义评估过程
 def evaluation(model):
     paddle.set_device('gpu:0')
     print('start evaluation .......')
