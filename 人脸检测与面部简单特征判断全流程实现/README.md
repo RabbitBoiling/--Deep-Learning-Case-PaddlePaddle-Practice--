@@ -9,3 +9,7 @@
 主要可以加大数据集，本训练只使用了500张图像。
 ## -具体项目地址-
 https://aistudio.baidu.com/aistudio/projectdetail/2280196
+## -训练数据集地址-
+迅雷下载：
+链接：https://pan.xunlei.com/s/VMhwd0CfwP-hV5AMc2ni5vM-A1
+提取码：8kem
